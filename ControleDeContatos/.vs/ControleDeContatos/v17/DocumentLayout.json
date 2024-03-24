@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KDRF\\source\\repos\\ControleDeContatos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{029FD969-54E3-4A75-92BE-EA2AA80ACB87}|ControleDeContatos\\ControleDeContatos.csproj|c:\\users\\kdrf\\source\\repos\\controledecontatos\\controledecontatos\\controllers\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{029FD969-54E3-4A75-92BE-EA2AA80ACB87}|ControleDeContatos\\ControleDeContatos.csproj|solutionrelative:controledecontatos\\controllers\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{029FD969-54E3-4A75-92BE-EA2AA80ACB87}|ControleDeContatos\\ControleDeContatos.csproj|c:\\users\\kdrf\\source\\repos\\controledecontatos\\controledecontatos\\views\\contato\\apagarconfirmacao.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{029FD969-54E3-4A75-92BE-EA2AA80ACB87}|ControleDeContatos\\ControleDeContatos.csproj|solutionrelative:controledecontatos\\views\\contato\\apagarconfirmacao.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{029FD969-54E3-4A75-92BE-EA2AA80ACB87}|ControleDeContatos\\ControleDeContatos.csproj|c:\\users\\kdrf\\source\\repos\\controledecontatos\\controledecontatos\\views\\contato\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{029FD969-54E3-4A75-92BE-EA2AA80ACB87}|ControleDeContatos\\ControleDeContatos.csproj|solutionrelative:controledecontatos\\views\\contato\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{029FD969-54E3-4A75-92BE-EA2AA80ACB87}|ControleDeContatos\\ControleDeContatos.csproj|c:\\users\\kdrf\\source\\repos\\controledecontatos\\controledecontatos\\views\\contato\\criar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{029FD969-54E3-4A75-92BE-EA2AA80ACB87}|ControleDeContatos\\ControleDeContatos.csproj|solutionrelative:controledecontatos\\views\\contato\\criar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{029FD969-54E3-4A75-92BE-EA2AA80ACB87}|ControleDeContatos\\ControleDeContatos.csproj|c:\\users\\kdrf\\source\\repos\\controledecontatos\\controledecontatos\\views\\contato\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{029FD969-54E3-4A75-92BE-EA2AA80ACB87}|ControleDeContatos\\ControleDeContatos.csproj|solutionrelative:controledecontatos\\views\\contato\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\KDRF\\source\\repos\\ControleDeContatos\\ControleDeContatos\\Views\\Contato\\Exibir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ControleDeContatos\\Views\\Contato\\Exibir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Editar.cshtml",
+              "DocumentMoniker": "C:\\Users\\KDRF\\source\\repos\\ControleDeContatos\\ControleDeContatos\\Views\\Contato\\Editar.cshtml",
+              "RelativeDocumentMoniker": "ControleDeContatos\\Views\\Contato\\Editar.cshtml",
+              "ToolTip": "C:\\Users\\KDRF\\source\\repos\\ControleDeContatos\\ControleDeContatos\\Views\\Contato\\Editar.cshtml",
+              "RelativeToolTip": "ControleDeContatos\\Views\\Contato\\Editar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-24T02:15:33.297Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContatoController.cs",
+              "DocumentMoniker": "C:\\Users\\KDRF\\source\\repos\\ControleDeContatos\\ControleDeContatos\\Controllers\\ContatoController.cs",
+              "RelativeDocumentMoniker": "ControleDeContatos\\Controllers\\ContatoController.cs",
+              "ToolTip": "C:\\Users\\KDRF\\source\\repos\\ControleDeContatos\\ControleDeContatos\\Controllers\\ContatoController.cs",
+              "RelativeToolTip": "ControleDeContatos\\Controllers\\ContatoController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAowBgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T02:20:20.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\KDRF\\source\\repos\\ControleDeContatos\\ControleDeContatos\\Views\\Contato\\Index.cshtml",
+              "RelativeDocumentMoniker": "ControleDeContatos\\Views\\Contato\\Index.cshtml",
+              "ToolTip": "C:\\Users\\KDRF\\source\\repos\\ControleDeContatos\\ControleDeContatos\\Views\\Contato\\Index.cshtml",
+              "RelativeToolTip": "ControleDeContatos\\Views\\Contato\\Index.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAADgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-23T20:29:11.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApagarConfirmacao.cshtml",
+              "DocumentMoniker": "C:\\Users\\KDRF\\source\\repos\\ControleDeContatos\\ControleDeContatos\\Views\\Contato\\ApagarConfirmacao.cshtml",
+              "RelativeDocumentMoniker": "ControleDeContatos\\Views\\Contato\\ApagarConfirmacao.cshtml",
+              "ToolTip": "C:\\Users\\KDRF\\source\\repos\\ControleDeContatos\\ControleDeContatos\\Views\\Contato\\ApagarConfirmacao.cshtml",
+              "RelativeToolTip": "ControleDeContatos\\Views\\Contato\\ApagarConfirmacao.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-23T20:27:39.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Exibir.cshtml",
+              "DocumentMoniker": "C:\\Users\\KDRF\\source\\repos\\ControleDeContatos\\ControleDeContatos\\Views\\Contato\\Exibir.cshtml",
+              "RelativeDocumentMoniker": "ControleDeContatos\\Views\\Contato\\Exibir.cshtml",
+              "ToolTip": "C:\\Users\\KDRF\\source\\repos\\ControleDeContatos\\ControleDeContatos\\Views\\Contato\\Exibir.cshtml",
+              "RelativeToolTip": "ControleDeContatos\\Views\\Contato\\Exibir.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-23T20:27:14.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Criar.cshtml",
+              "DocumentMoniker": "C:\\Users\\KDRF\\source\\repos\\ControleDeContatos\\ControleDeContatos\\Views\\Contato\\Criar.cshtml",
+              "RelativeDocumentMoniker": "ControleDeContatos\\Views\\Contato\\Criar.cshtml",
+              "ToolTip": "C:\\Users\\KDRF\\source\\repos\\ControleDeContatos\\ControleDeContatos\\Views\\Contato\\Criar.cshtml",
+              "RelativeToolTip": "ControleDeContatos\\Views\\Contato\\Criar.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-23T20:26:48.129Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
