@@ -1,1 +1,1 @@
-Teste técnico de back-end com CRUD utilizando .Net Versão 6.
+Sistema de cadastro de contatos utilizando .NET 6 e padrão MVC.
